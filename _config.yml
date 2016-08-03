@@ -6,9 +6,9 @@ color:
   saturation: 0.9389175402466208
   rhythmicContrast: 0.5586258335970342
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FEFFFA'
+    - '#C0C0C0'
+    - '#58575F'
+    - '#121212'
+    - '#58C6DD'
 name: rent-a-refugee
