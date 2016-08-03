@@ -1,0 +1,14 @@
+layout_spectrum: 0.5902470527216792
+typography_spectrum: 0.04175039241090417
+color:
+  brandStrength: 0.8796693165786564
+  lightness: 0.4469617691356689
+  saturation: 0.9389175402466208
+  rhythmicContrast: 0.5586258335970342
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: rent-a-refugee
