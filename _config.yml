@@ -1,4 +1,3 @@
-layout_spectrum: 0.5902470527216792
 typography_spectrum: 0.04175039241090417
 color:
   brandStrength: 0.8796693165786564
@@ -11,5 +10,7 @@ color:
     - '#58575F'
     - '#121212'
     - '#58C6DD'
+layout_spectrum: 0.5902470527216792
 name: rent-a-refugee
 title: Rent A Refugee
+description: 'Great stories, better skills'
